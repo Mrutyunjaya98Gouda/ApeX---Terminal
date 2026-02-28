@@ -1,5 +1,3 @@
-A professional GitHub README needs to be scannable, technically rigorous, and "brutally honest" about its requirements. Here is the complete Markdown for your ApeX Terminal repository.
-
 ApeX Terminal (ApeX)
 The Local-First AI Bridge for the Command Line.
 ApeX Terminal is a context-aware system utility that translates natural language into precise, executable shell commands. Unlike cloud-based assistants, ApeX runs entirely on your local silicon, ensuring your proprietary code, directory structures, and environment variables never leave your machine.
